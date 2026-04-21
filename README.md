@@ -1,14 +1,14 @@
 # Victor Bernardo
 
-Desenvolvedor em formacao, construindo projetos para praticar **HTML, CSS e JavaScript** e evoluindo um passo de cada vez no frontend.
+Desenvolvedor em formacao, focado em **HTML, CSS e JavaScript**, criando projetos praticos para evoluir em frontend, interface e logica de programacao.
 
 ## Sobre Mim
 
-- Estudando desenvolvimento web com foco em projetos praticos
-- Buscando melhorar organizacao de codigo, interface e logica com JavaScript
-- Usando o GitHub como vitrine da minha evolucao
+- Estudando desenvolvimento web com foco em pratica real
+- Construindo projetos para fortalecer minha base em frontend
+- Usando o GitHub como vitrine da minha evolucao e dos meus estudos
 
-## Tecnologias Em Estudo
+## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,23 +20,28 @@ Desenvolvedor em formacao, construindo projetos para praticar **HTML, CSS e Java
 
 ### To-Do List
 
-Aplicacao de lista de tarefas com visual moderno, prioridades, busca, persistencia com `localStorage` e instalacao como aplicativo no navegador.
+Aplicacao de lista de tarefas com JavaScript puro, interface responsiva, prioridades, busca, persistencia com `localStorage` e suporte como aplicativo no navegador.
 
-[Repositorio](https://github.com/victorbernardo18-oss/todo-list)
-| [Aplicacao online](https://victorbernardo18-oss.github.io/todo-list/)
+[Repositorio](https://github.com/victorbernardo18-oss/todo-list) | [Aplicacao online](https://victorbernardo18-oss.github.io/todo-list/)
 
-## Objetivo No GitHub
+## O Que Voce Encontra Aqui
 
-Quero usar este perfil para registrar minha evolucao como desenvolvedor, publicar projetos praticos e mostrar minha melhoria continua em frontend.
+- Projetos praticos de HTML, CSS e JavaScript
+- Exercicios de interface e organizacao visual
+- Aplicacoes para praticar DOM, eventos e armazenamento local
+- Evolucao constante na apresentacao dos repositorios
+
+## Objetivo Profissional
+
+Quero transformar estudo em projetos cada vez mais bem construidos, melhorando codigo, interface, organizacao e apresentacao profissional no GitHub.
 
 ## Proximos Passos
 
-- Criar mais projetos para portfolio
-- Melhorar meus READMEs
+- Criar projetos mais completos para portfolio
+- Evoluir meus projetos com melhor experiencia de usuario
 - Aprender mais sobre responsividade, APIs e boas praticas de JavaScript
+- Fortalecer minha presenca profissional no GitHub
 
 ## Contato
 
-Se quiser acompanhar meus projetos, visite meu perfil e repositorios:
-
-[github.com/victorbernardo18-oss](https://github.com/victorbernardo18-oss)
+[Meu GitHub](https://github.com/victorbernardo18-oss)
