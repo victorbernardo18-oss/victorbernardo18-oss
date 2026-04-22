@@ -1,4 +1,4 @@
-# Victor Bernardo
+# João Vitor Bernardo dos Santos
 
 Desenvolvedor em formacao, focado em **HTML, CSS e JavaScript**, criando projetos praticos para evoluir em frontend, interface e logica de programacao.
 
